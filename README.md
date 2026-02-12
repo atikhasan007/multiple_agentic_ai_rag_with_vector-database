@@ -35,5 +35,6 @@ This project builds a **CLI-based AI Assistant** that can answer questions from 
 ├── .env
 ├── requirements.txt
 └── README.md
+```
 
 🔗 **Documentation:** [Read the Docs](https://docs.phidata.com/vectordb/pgvector)
